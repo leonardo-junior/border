@@ -1,0 +1,36 @@
+body {
+    background: rgba(29, 102, 197, 0.349); 
+    font: normal 20pt Arial;
+ }
+ header {
+    font: normal 10pt Arial;
+ }
+ section {
+    background: white;
+    width: 500px;
+    height:500px;
+    margin: auto;
+    box-shadow: 20px;
+    padding: 20px;
+    color: black;
+ }
+ div {
+    width: 500px;
+    height:500px;
+    background: black;
+    font: normal 10pt Arial;
+ }
+ h1 {
+     text-align: center;
+     color: white;
+ }
+ footer{
+    font: normal 10pt Arial;
+    font-style: italic;
+    color: rgb(12, 12, 95);
+ }
+ .resp {
+   text-align: center;
+   color:white;
+   font: normal 15pt Arial;
+}
